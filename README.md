@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there 👋 my name is Karl Anthony Lapitan IT Graduate 
+
+### Languages
+
+
+
+🌱 I’m currently learning React.JS 
+
+
+
+
 
 <!--
 **KLapitan/KLapitan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
