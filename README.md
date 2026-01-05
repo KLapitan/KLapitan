@@ -1,13 +1,13 @@
 ## Hi there 👋i'm Karl 
 
-💻 Frontend Developer passionate about building responsive and user-friendly web applications.
+💻 Frontend Developer passionate about building responsive and user-friendly web applications. <br><br/>
 ⚛️ Currently working with React and modern JavaScript (ES6+).
 🎯 Focused on clean UI, reusable components, and real-world projects.
 
-🧠 ### Languages & Frameworks
+🧠 Languages & Frameworks
 <p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/> </p>
 
-###🛠️ Tools & Technologies
+🛠️ Tools & Technologies
 <p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="40" height="40"/> </p>
 
 
