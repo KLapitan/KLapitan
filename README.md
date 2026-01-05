@@ -4,8 +4,8 @@
 ⚛️ Currently working with React and modern JavaScript (ES6+).<br><br/>
 🎯 Focused on clean UI, reusable components, and real-world projects.<br><br/>
 
-🧠 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+🧠 Tech Stack <br></br>
+[![My Skills](https://skillicons.dev/icons?i=js,react,mongodb,nodejs,tailwind,postman,)](https://skillicons.dev)
 
 
 
