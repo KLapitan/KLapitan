@@ -1,8 +1,8 @@
 ## Hi there 👋i'm Karl 
 
 💻 Frontend Developer passionate about building responsive and user-friendly web applications. <br><br/>
-⚛️ Currently working with React and modern JavaScript (ES6+).
-🎯 Focused on clean UI, reusable components, and real-world projects.
+⚛️ Currently working with React and modern JavaScript (ES6+).<br><br/>
+🎯 Focused on clean UI, reusable components, and real-world projects.<br><br/>
 
 🧠 Languages & Frameworks
 <p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/> </p>
@@ -12,9 +12,9 @@
 
 
 📌 What I’m Working On
-Building React projects with reusable components
-Practicing API integration
-Improving responsive layouts with Tailwind CSS
+Building React projects with reusable components <br><br/>
+Practicing API integration <br><br/>
+Improving responsive layouts with Tailwind CSS <br><br/>
 
 
 
