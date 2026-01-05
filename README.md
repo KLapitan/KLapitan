@@ -1,8 +1,8 @@
 ## Hi there 👋i'm Karl 
 
 💻 Frontend Developer passionate about building responsive and user-friendly web applications. <br><br/>
-⚛️ Currently working with React and modern JavaScript (ES6+).<br><br/>
-🎯 Focused on clean UI, reusable components, and real-world projects.<br><br/>
+⚛️ Focused on  ReactJS  <br><br/>
+
 
 💻  Tech Stack: <br></br>
 [![My Skills](https://skillicons.dev/icons?i=js,react,mongodb,nodejs,tailwind,postman,figma,git,github,npm)](https://skillicons.dev)
@@ -15,7 +15,7 @@
 
 
 📌 What I’m Working On <br><br/>
-Building React projects with reusable components <br><br/>
+Building React real-world projects with reusable components <br><br/>
 Practicing API integration <br><br/>
 Improving responsive layouts with Tailwind CSS <br><br/>
 
