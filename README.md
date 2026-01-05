@@ -11,7 +11,9 @@
 <p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="40" height="40"/> </p>
 
 
-📌 What I’m Working On
+
+
+📌 What I’m Working On <br><br/>
 Building React projects with reusable components <br><br/>
 Practicing API integration <br><br/>
 Improving responsive layouts with Tailwind CSS <br><br/>
