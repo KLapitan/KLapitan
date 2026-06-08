@@ -5,7 +5,7 @@
 <hr />
 
 💻  Tech Stack: <br></br>
-[![My Skills](https://skillicons.dev/icons?i=js,react,mongodb,nodejs,tailwind,postman,figma,git,github,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,mongodb,nodejs,tailwind,postman,figma,git,github,pnpm)](https://skillicons.dev)
 
 
 🛠️ Other Tools: <br></br>
