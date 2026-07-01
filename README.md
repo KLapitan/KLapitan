@@ -1,6 +1,6 @@
 ## Hi there 👋i'm Karl 
 
-💻 Frontend Developer passionate about building responsive and user-friendly web applications. <br><br/>
+💻  Frontend Developer,  with a passion  in building responsive and user-friendly web applications. <br><br/>
 ⚛️ Focused on  ReactJS  <br><br/>
 <hr />
 
